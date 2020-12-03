@@ -2,7 +2,7 @@
 
 
 
-" Minha primeira experiência com HTML e CSS, no bootmap da Digitan Innovation One ""
+" Minha primeira experiência com HTML e CSS, no bootcamp da Digitan Innovation One ""
 
 ​    Consegui fazer todo o projeto, e por algum motivo obscuro :japanese_ogre: , os botões de donwloads não funicionam, tentei de tudo, refiz o código três vezes, troquei as imagens e nada.
 
